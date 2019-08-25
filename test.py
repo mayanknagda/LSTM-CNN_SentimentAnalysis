@@ -1,10 +1,3 @@
-
-# Deep Learning Studio - GUI platform for designing Deep Learning AI without programming
-#
-# Copyright (C) 2018 Deep Cognition Inc.
-#
-# All rights reserved.
-
 from __future__ import print_function
 import os
 
